@@ -5,7 +5,7 @@ import { AiOutlineSearch } from "react-icons/ai";
 import { AiOutlineMenu } from "react-icons/ai"; 
 import handbag from "../public/Handbag.png"; 
 import Link from "next/link";
-import magnify from '../public/magnify.png';
+
 import user from '../public/User.png';
 import { AiOutlineClose } from "react-icons/ai";
 
