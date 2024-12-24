@@ -26,7 +26,7 @@ import burger2 from './public/burger2.png';
 import icon from './public/Icon.png';
 import pizza from './public/pizza.png';
 import taco from './public/taco.png';
-import { ImageConfigContext } from "next/dist/shared/lib/image-config-context.shared-runtime";
+
 
 
 export default function Home() {
