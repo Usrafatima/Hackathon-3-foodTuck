@@ -12,7 +12,7 @@ export default function Footer(){
               <span className="text-white">ll You Need Our Support?</span>
             </h1>
             <p className="text-white mt-4">
-              Don't wait, make a smart & logical quote here. It's pretty easy.
+              Dont wait, make a smart & logical quote here. Its pretty easy.
             </p>
           </div>
   
