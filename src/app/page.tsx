@@ -4,10 +4,8 @@ import check from './public/check.png';
 import pic1 from './public/pic1.svg';
 import pic2 from './public/pic2.svg';
 import pic3 from './public/pic3.svg';
-import mushroom from './public/mushroom.svg';
-import burger from './public/burger.svg';
-import chicken from './public/chicksalad.svg'
-import donut  from './public/donuts.svg';
+
+
 import Hamburger from './public/Hamburger.png';
 import Cookie from './public/Cookie.png';
 import Wine from './public/Wine.png';
