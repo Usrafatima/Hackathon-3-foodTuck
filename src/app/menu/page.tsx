@@ -2,10 +2,8 @@ import Image from "next/image";
 import menu from '../public/menu.png';
 import menu1 from '../public/menu1.png';
 import menuburger from '../public/menuburger.png';
-import clients from '../public/Client & customers.png';
+
 import cupcake from '../public/cupcake.png';
-import juice from '../public/juice.png';
-import logo from '../public/Logo.png';
 
 
 export default function Menu() {
